@@ -1,0 +1,14 @@
+├── src/
+│   ├── assets/              # Logos, iconos o imágenes de la empresa
+│   ├── components/          # Tus "mínimos" reutilizables
+│   │   ├── Navbar.vue       # El menú de navegación común
+│   │   ├── Footer.vue       # El pie de página con la newsletter integrada
+│   │   ├── BaseDialog.vue   # El componente diálogo modal
+│   │   └── CarbonChart.vue  # Un único componente envoltorio para Chart.js
+│   ├── views/               # Las vistas principales (puedes usar vue-router o cambio de pestañas)
+│   │   ├── HomeView.vue     # Tu carta de presentación
+│   │   ├── ClimateView.vue  # Riesgos climáticos
+│   │   ├── FootprintView.vue# Huella (Scopes 1, 2, 3)
+│   │   └── ESGView.vue      # Indicadores ASG
+│   ├── App.vue              # El componente raíz que junta todo el layout
+│   └── main.js              # Punto de entrada (aquí importas Tailwind o Bootstrap)
