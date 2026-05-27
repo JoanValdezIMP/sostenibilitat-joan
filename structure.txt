@@ -12,3 +12,12 @@
 │   │   └── ESGView.vue      # Indicadores ASG
 │   ├── App.vue              # El componente raíz que junta todo el layout
 │   └── main.js              # Punto de entrada (aquí importas Tailwind o Bootstrap)
+
+plantillas:
+- https://preview.themeforest.net/item/shodo-minimal-hugo-theme-for-writers-bloggers/full_screen_preview/63338737
+- https://preview.themeforest.net/item/creazia-creative-agency-website-elementor-template-kits/full_screen_preview/63475418
+- https://preview.themeforest.net/item/hextone-software-saas-startup-tailwind-css-template/full_screen_preview/63346992
+- https://preview.themeforest.net/item/propai-ai-real-estate-mobile-pwa-app-html-templates/full_screen_preview/63313641
+- https://preview.themeforest.net/item/flexio-modern-wordpress-theme/full_screen_preview/63112450
+- https://themeforest.net/item/aicreva-figma-ai-studio-agency-website-template/63263125#
+- 
