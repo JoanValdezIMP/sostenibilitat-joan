@@ -1,0 +1,7 @@
+<!-- Este apartado es el núcleo del requisito del 40% de teoría de sostenibilidad. Utilizarás los datos para explicar perfectamente los tres alcances del protocolo de Gases de Efecto Invernadero.Marco Teórico Aplicado a Temu:Abast 1 (Directo): Emisiones mínimas controladas por oficinas de PDD Holdings y los nuevos centros logísticos regionales propios.Abast 2 (Indirecto): Consumo eléctrico de sus servidores informáticos y plataformas operacionales en la nube.Abast 3 (Cadena de Valor - El problema crítico de Temu): Representa entre el 70% y el 95% del total de su huella. Incluye la fabricación subcontratada en fábricas de China, el packaging de envío y el masivo transporte aéreo de mercancías.Análisis Comparativo del Transporte: * Explicar que el transporte aéreo emite de 20 a 30 veces más $CO_2$ por tonelada-kilómetro que el marítimo.Métrica de Impacto Cotidiano - Gráfica 2 (CarbonChart.vue):Tipo de Gráfica: Barra comparativa de emisiones por cada 1 kg de producto enviado desde China a Europa (~4,75 kg de $CO_2$).Comparadores del gráfico: Enviar 1 kg por Temu (4,75 kg $CO_2$) vs. Conducir un coche de gasolina 22 millas (4,6 kg $CO_2$) vs. Ver 10 horas de Netflix (0,36 kg $CO_2$) vs. Una bolsa de plástico de un solo uso (1,58 kg $CO_2$). -->
+
+<template>
+  <div style="padding: 100px 20px; text-align: center;">
+    <h2>Archivo temporal</h2>
+  </div>
+</template>

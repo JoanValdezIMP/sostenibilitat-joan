@@ -1,0 +1,99 @@
+{
+  "ca": {
+    "home": {
+      "title": "Anàlisi de Sostenibilitat: Cas Temu",
+      "subtitle": "El model hiperconsumista de PDD Holdings i el seu impacte climàtic en l'era digital.",
+      "summary_title": "Resum Executiu",
+      "summary_text": "Temu és una plataforma de comerç electrònic global que connecta directament els fabricants xinesos amb els consumidors mundials, eliminant intermediaris. Com a empresa altament tecnològica, la sostenibilitat és una qüestió crítica: depèn d'algoritmes massius de Big Data i centres de dades que consumeixen un volum massiu d'energia elèctrica. Tot i el seu creixement comercial exponencial, la companyia manté un absolut silenci climàtic corporatiu.",
+      "cards": {
+        "vol_title": "Volum d'Enviaments",
+        "vol_value": "2.3 milions",
+        "vol_desc": "Paquets diaris el 2026 moguts majoritàriament per via aèria de transport intensiu.",
+        "sales_title": "Vendes (GMV)",
+        "sales_value": "$70.8 B",
+        "sales_desc": "Ingressos anuals registrats de la matriu que impulsen la cultura de l'un sol ús.",
+        "esg_title": "Transparència ESG",
+        "esg_value": "8 / 100",
+        "esg_desc": "Puntuació de S&P Global a causa del nul compromís climàtic declarat."
+      }
+    },
+    "climate": {
+      "title": "Canvi Climàtic i Riscos de Transició",
+      "physical_title": "Riscos Físics (Llarg Termini)",
+      "physical_desc": "Esdeveniments climàtics extrems que amenacen la continuïtat de la cadena de subministrament de les fàbriques centralitzades a la Xina i rutes logístiques de distribució global.",
+      "transition_title": "Riscos de Transició (Curt Termini - 2 anys)",
+      "transition_desc": "La pressió legal pel tancament de buits fiscals (com l'exempció 'de minimis' abolida pels EUA el 2025) obliga a reestructurar rutes logístiques i assumir costos per taxes de carboni aeri.",
+      "ai_title": "Impacte Tecnològic de la IA",
+      "ai_desc": "La gamificació de l'App i els sistemes de preus dinàmics requereixen supercomputació. Els centres de dades utilitzats consumeixen aproximadament l'1.8% de l'electricitat global, generant un bucle de consum invisible."
+    },
+    "carbon": {
+      "title": "Petjada de Carboni i Teoria dels Abasts",
+      "calc_title": "Quantificació de la Petjada",
+      "calc_desc": "La companyia no publica dades oficials sobre les seves emissions de CO2 equivalent, deixant a la societat a les fosques sobre l'impacte real dels seus productes.",
+      "scope1_title": "Abast 1 (Directe)",
+      "scope1_desc": "Emissions mínimes sota control directe. Se centra en instal·lacions corporatives de PDD Holdings i fugues potencials de refrigerants HVAC.",
+      "scope2_title": "Abast 2 (Indirecte - Energia)",
+      "scope2_desc": "Consum elèctric dels servidors i plataformes digitals. Manca d'un pla declarat per a la compra d'energia 100% neta o renovable.",
+      "scope3_title": "Abast 3 (Altres indirectes - El punt crític)",
+      "scope3_desc": "Representa el gruix del seu impacte ecològic. Inclou la fabricació massiva de productes de polièster no reciclable i el transport aeri de llarg recorregut que contamina fins a 30 vegades més que el marítim."
+    },
+    "esg": {
+      "title": "Avaluació de Pilars ASG (Ambiental, Social i Governança)",
+      "env_title": "A - Ambiental",
+      "env_desc": "Generació estimada de 2.9 milions de tones de residus el 2026. Ús compulsiu d'embalatges plàstics de sol ús i alta contaminació per microplàstics de teixits acrílics.",
+      "soc_title": "S - Social",
+      "soc_desc": "Escrutini internacional per presumptes vulneracions dels drets laborals en fàbriques d'origen i pràctiques d'explotació laboral extrema (més de 380 hores mensuals de treball). Plagis a artistes.",
+      "gov_title": "G - Governança",
+      "gov_desc": "Trasllat de la seu legal a Irlanda per optimització fiscal. Nul·la transparència empresarial corporativa, ocultació de dades clau de sostenibilitat i multes regulatòries greus."
+    }
+  },
+  "es": {
+    "home": {
+      "title": "Análisis de Sostenibilidad: Caso Temu",
+      "subtitle": "El modelo hiperconsumista de PDD Holdings y su impacto climático en la era digital.",
+      "summary_title": "Resumen Ejecutivo",
+      "summary_text": "Temu es una plataforma de comercio electrónico global que conecta directamente a los fabricantes chinos con los consumidores mundiales, eliminando intermediarios. Como empresa altamente tecnológica, la sostenibilidad es una cuestión crítica: depende de algoritmos masivos de Big Data y centros de datos que consumen un volumen masivo de energía eléctrica. A pesar de su crecimiento comercial exponencial, la compañía mantiene un absoluto silencio climático corporativo.",
+      "cards": {
+        "vol_title": "Volumen de Envíos",
+        "vol_value": "2.3 millones",
+        "vol_desc": "Paquetes diarios en 2026 movidos mayoritariamente por vía aérea de transporte intensivo.",
+        "sales_title": "Ventas (GMV)",
+        "sales_value": "$70.8 B",
+        "sales_desc": "Ingresos anuales registrados de la matriz que impulsan la cultura del usar y tirar.",
+        "esg_title": "Transparencia ESG",
+        "esg_value": "8 / 100",
+        "esg_desc": "Puntuación de S&P Global debido al nulo compromiso climático declarado."
+      }
+    },
+    "climate": {
+      "title": "Cambio Climático y Riesgos de Transición",
+      "physical_title": "Riesgos Físicos (Largo Plazo)",
+      "physical_desc": "Eventos climáticos extremos que amenazan la continuidad de la cadena de suministro de las fábricas centralizadas en China y rutas logísticas de distribución global.",
+      "transition_title": "Riesgos de Transición (Corto Plazo - 2 años)",
+      "transition_desc": "La presión legal por el cierre de vacíos fiscales (como la exención 'de minimis' abolida por EE.UU. en 2025) obliga a reestructurar rutas logísticas y asumir costes por tasas de carbono aéreo.",
+      "ai_title": "Impacto Tecnológico de la IA",
+      "ai_desc": "La gamificación de la App y los sistemas de precios dinámicos requieren supercomputación. Los centros de datos utilizados consumen aproximadamente el 1.8% de la electricidad global, generando un bucle de consumo invisible."
+    },
+    "carbon": {
+      "title": "Huella de Carbono y Teoría de los Alcances",
+      "calc_title": "Cuantificación de la Huella",
+      "calc_desc": "La compañía no publica datos oficiales sobre sus emisiones de CO2 equivalente, dejando a la sociedad a oscuras sobre el impacto real de sus productos.",
+      "scope1_title": "Alcance 1 (Directo)",
+      "scope1_desc": "Emisiones mínimas bajo control directo. Se centra en instalaciones corporativas de PDD Holdings y fugues potenciales de refrigerantes HVAC.",
+      "scope2_title": "Alcance 2 (Indirecto - Energía)",
+      "scope2_desc": "Consumo eléctrico de los servidores y plataformas digitales. Falta de un plan declarado para la compra de energía 100% limpia o renovable.",
+      "scope3_title": "Alcance 3 (Otros indirectos - El punto crítico)",
+      "scope3_desc": "Representa el grueso de su impacto ecológico. Incluye la fabricación masiva de productos de poliéster no reciclable y el transporte aéreo de largo recorrido que contamina hasta 30 veces más que el marítimo."
+    },
+    "carbon_chart_lbl": "Emisiones Estimadas CO2e (Toneladas Métricas)",
+    "esg": {
+      "title": "Evaluación de Pilares ASG (Ambiental, Social y Gobernanza)",
+      "env_title": "A - Ambiental",
+      "env_desc": "Generación estimada de 2.9 millones de toneladas de residuos en 2026. Uso compulsivo de embalajes plásticos de un solo uso y alta contaminación por microplásticos de tejidos acrílicos.",
+      "soc_title": "S - Social",
+      "soc_desc": "Escrutinio internacional por presuntas vulneraciones de los derechos laborales en fábricas de origen y prácticas de explotación laboral extrema (más de 380 horas mensuales de trabajo). Plagios a artistas.",
+      "gov_title": "G - Gobernanza",
+      "gov_desc": "Traslado de la sede legal a Irlanda por optimización fiscal. Nula transparencia empresarial corporativa, ocultación de datos clave de sostenibilidad y multas regulatorias graves."
+    }
+  }
+}
