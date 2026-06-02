@@ -86,7 +86,9 @@ const subscribe = () => {
         
         <div class="flex flex-wrap justify-center gap-4 md:gap-6 text-sm text-slate-500">
           <a href="#" class="hover:text-emerald-400 transition-colors">Metodologia</a>
-          <a href="#" class="hover:text-emerald-400 transition-colors">Fonts de Dades</a>
+          <a href="https://docs.google.com/document/d/1iEg2h-kkkzhexYR4WNZFEh6AzrbAQIUJl-yvlbbDb6M/edit?usp=sharing" target="_blank" class="hover:text-emerald-400 transition-colors">
+  Fonts de Dades
+</a>
           <a href="#" class="hover:text-emerald-400 transition-colors">Contacte Auditories</a>
         </div>
       </div>
