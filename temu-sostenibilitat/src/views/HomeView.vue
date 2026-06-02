@@ -1,5 +1,6 @@
 <script setup>
 import { inject, ref } from 'vue'
+import BaseDialog from '../components/BaseDialog.vue'
 
 // Inyectamos la función de traducción global
 const t = inject('translate', (key) => key)
@@ -98,7 +99,7 @@ const showModal = ref(false)
     </section>
     
     <!-- 5. DIÁLOGO MODAL TEMPORAL (Se integrará BaseDialog.vue aquí) -->
-    <Teleport to="body">
+    <!-- <Teleport to="body">
       <div v-if="showModal" class="fixed inset-0 z-[100] flex items-center justify-center bg-slate-950/80 backdrop-blur-sm px-4 transition-opacity" @click.self="showModal = false">
         <div class="bg-slate-900 border border-slate-700 p-8 rounded-3xl max-w-lg w-full shadow-2xl relative transform transition-all">
           <button @click="showModal = false" class="absolute top-4 right-4 text-slate-400 hover:text-white bg-slate-800 hover:bg-slate-700 rounded-full p-2 transition-colors">
@@ -114,7 +115,8 @@ const showModal = ref(false)
           </div>
         </div>
       </div>
-    </Teleport>
+    </Teleport> -->
 
   </div>
+  <BaseDialog v-if="showModal" @close="showModal = false" />
 </template>
